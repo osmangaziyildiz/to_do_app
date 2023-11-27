@@ -1,0 +1,8 @@
+{
+    "title": "What are you doing today?",
+    "empty_task_list": "You haven't added task yet.",
+    "add_task": "What is the task?",
+    "remove_task": "This task removed",
+    "searc_not_found": "Search not found!",
+    "clear": "Clear"
+}
